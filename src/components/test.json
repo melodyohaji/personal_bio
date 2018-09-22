@@ -1,0 +1,12 @@
+{
+    "user":
+    {"uid":"Ejxs51vfNLQA1ocW2bQEpAGQ9LC3","displayName":null,"photoURL":null,"email":"cjustinobi@gmail.com","emailVerified":false,"phoneNumber":null,
+        "isAnonymous":false,"providerData":
+        [
+        {"uid":"cjustinobi@gmail.com","displayName":null,"photoURL":null,"email":"cjustinobi@gmail.com","phoneNumber":null,"providerId":"password"}
+    ],
+    "apiKey":"AIzaSyDh9G_Y7amNfj-eNl_H9QAplnh3Tv2rLAQ","appName":"[DEFAULT]","authDomain":"blog-f9184.firebaseapp.com","stsTokenManager":
+        {"apiKey":"AIzaSyDh9G_Y7amNfj-eNl_H9QAplnh3Tv2rLAQ","expirationTime":1536761327953},
+        "redirectEventId":null,"lastLoginAt":"1536757728000","createdAt":"1536756737000"}
+        ,"credential":null,"additionalUserInfo":{"providerId":"password","isNewUser":false}
+        ,"operationType":"signIn"}
